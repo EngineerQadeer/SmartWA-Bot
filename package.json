@@ -1,0 +1,53 @@
+{
+  "name": "SmartWA-Bot",
+  "version": "2.1.0",
+  "description": "SmartWA-Bot Created By Engineer Qadeer",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "termux",
+    "whatsapp-openai",
+    "SmartWA-Bot",
+    "whatsapp-bot",
+    "whatsapp-baileys",
+    "baileys-md",
+    "EngineerQadeer",
+    "Whatsapp-Bot by EngineerQadeer",
+    "whatsapp-multi-device"
+  ],
+  "base": "https://github.com/EngineerQadeer/SmartWA-Bot",
+  "author": "Engineer Qadeer",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@hapi/boom": "^10.0.0",
+    "@whiskeysockets/baileys": "^6.7.16",
+    "awesome-phonenumber": "^2.64.0",
+    "axios": "^1.3.4",
+    "chalk": "^4.1.2",
+    "crypto": "^1.0.1",
+    "figlet": "^1.5.2",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.21",
+    "moment-timezone": "^0.5.46",
+    "pino": "^7.0.5",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0",
+    "util": "^0.12.4"
+  },
+  "directories": {
+    "lib": "lib",
+    "src": "src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EngineerQadeer/SmartWA-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EngineerQadeer/SmartWA-Bot/issues"
+  },
+  "homepage": "https://github.com/EngineerQadeer/SmartWA-Bot#readme"
+}
